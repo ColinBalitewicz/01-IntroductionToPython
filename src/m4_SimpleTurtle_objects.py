@@ -116,7 +116,7 @@ natasha.go_to(rg.Point(-100, 200))
 
 ###############################################################################
 #
-# TODO: 4.
+# DONE: 4.
 #   Add a few more lines of your own code to make one of the existing
 #   SimpleTurtles move some more and/or have different characteristics.
 #
@@ -131,7 +131,7 @@ natasha.speed=2
 natasha.go_to(rg.Point(-200,200))
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   The above code  CONSTRUCTS  two SimpleTurtle objects
 #   and gives those objects NAMES:
 #       boris    natasha
@@ -161,7 +161,7 @@ rolling_stone.pen = rg.Pen('black',1000)
 rolling_stone.go_to(rg.Point(0,800))
 ###############################################################################
 #
-# TODO: 6.
+# DONE: 6.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #   Run one more time to be sure that all is still OK.
 #
